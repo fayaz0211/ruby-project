@@ -4,7 +4,7 @@ require 'test/unit'
 
 class Search < Test::Unit::TestCase
 
-#set gecko driver path
+#set gecko driver pathg
 
   @driver = Selenium::WebDriver.for :firefox
   # , driver_path:'C:\Ruby23-x64\bin\geckodriver.exe'
